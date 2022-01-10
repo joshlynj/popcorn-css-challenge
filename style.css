@@ -3,3 +3,20 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+
+body{
+    margin: 20px;
+    background: #FFDBAA;
+    font-size: large;
+    font-family: Tahoma, Arial, “Trebuchet MS”, Helvetica, sans-serif;
+    text-align: left;
+  }
+
+  #container{
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    background: #D4A76A*;
+  }
